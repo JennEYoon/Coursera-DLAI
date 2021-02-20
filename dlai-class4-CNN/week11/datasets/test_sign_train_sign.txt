@@ -1,0 +1,2 @@
+test_sign.h5 and train_sign.h5 files, see week 10, duplicate.  
+Deleted to save storage space on Github repo. 

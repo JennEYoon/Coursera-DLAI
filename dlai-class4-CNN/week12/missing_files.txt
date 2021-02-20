@@ -1,0 +1,4 @@
+Did not download all supporting files for week 3.  
+Use some sort of zip download.  Too many files.  
+
+Images not load even when downloaded from GitHub or Coursera with associated images. 

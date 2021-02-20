@@ -1,0 +1,2 @@
+See week 10 for test_happy.h5 and train_happy.h5.  
+Duplicate.  Deleted to save storage space on Github repo. 

@@ -1,0 +1,5 @@
+# Add quizzes from class 4, as HTML complete style - no only saves 1 screen.  
+
+Add them as PDF zoomed to 30% to get all answers.  Can zoom back out when viewing, text are readable.  
+
+Only quiz week 2 saved so far, add other weeks - 9/15/2020.  

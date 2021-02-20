@@ -1,0 +1,4 @@
+# Memo for class
+
+Has not pictures for notebooks, need to copy all using directory structure. 
+Github renders notebook, but placeholder for all images.  
