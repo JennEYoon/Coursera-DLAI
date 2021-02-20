@@ -1,8 +1,10 @@
 # Coursera.org DeepLearning.AI  
 
-***New repo, "Coursera-DLAI," content moved from "deep-learning" repo.
+***New repo, "Coursera-DLAI," content moved from "deep-learning" repo, "dlai" folder.
 
-Move date:  Feb 19, 2021 by Jennifer Yoon  
+### Move date:  Feb 19, 2021 by Jennifer Yoon  
+
+### Author:  Jennifer Yoon  
 
 ---  
 
