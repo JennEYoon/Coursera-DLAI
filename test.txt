@@ -1,0 +1,1 @@
+test git setup with "main" as default branch.
