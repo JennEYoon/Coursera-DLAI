@@ -1,0 +1,2 @@
+CNN wk12 notebook images, large movie files 3 moved to,   
+C:/~repos/dlai-large-file/
